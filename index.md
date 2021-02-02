@@ -8,7 +8,7 @@ A simple way of living
 A simple way of living
 
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](Screen Shot 2020-08-08 at 12.21.52 PM.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
