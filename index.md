@@ -3,7 +3,9 @@
 
 
 # Simple Cleaning
+
 What's included
+
 ![Image](Screen Shot 2020-08-08 at 12.21.52 PM.png)
 
 ## BEDROOM, LIVING ROOM & COMMON AREAS
