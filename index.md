@@ -31,9 +31,10 @@ Baththubs/Showers
 
 # Deep Cleaning
 What's included
+
 ![Image](Screen Shot 2020-08-08 at 12.21.44 PM.png)
 
-##BEDROOM, LIVING ROOM & COMMON AREAS
+##BEDROOM, LIVING ROOM & COMMON AREAS 
 Sweep and mop floors
 Vacuum carpet and rugs
 Dusting
@@ -61,7 +62,9 @@ Extra attention to shower and bathroom
 
 # Move in/out Cleaning
 What's included
+
 ![Image](Screen Shot 2020-08-08 at 12.21.52 PM.png)
+
 ##BEDROOM, LIVING ROOM & COMMON AREAS
 Sweep and mop floors
 Vacuum carpet and rugs
