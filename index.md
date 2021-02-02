@@ -8,14 +8,23 @@ What's included
 
 ## BEDROOM, LIVING ROOM & COMMON AREAS
 Sweep and mop floors
+
 Vacuum carpet and rugs
+
 Dusting
+
 Clean mirrors
+
 Take out the trash
+
 Stove cleaning
+
 Empty and clean trash cans
+
 Wipe door handles & light switches
+
 Dust windows, sills, and ledges
+
 Making Beds (Airbnb Cleaning Only)
 
 ## KITCHEN
