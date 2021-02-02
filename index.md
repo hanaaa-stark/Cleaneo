@@ -6,7 +6,7 @@
 What's included
 ![Image](Screen Shot 2020-08-08 at 12.21.52 PM.png)
 
-##BEDROOM, LIVING ROOM & COMMON AREAS
+## BEDROOM, LIVING ROOM & COMMON AREAS
 Sweep and mop floors
 Vacuum carpet and rugs
 Dusting
@@ -18,13 +18,13 @@ Wipe door handles & light switches
 Dust windows, sills, and ledges
 Making Beds (Airbnb Cleaning Only)
 
-##KITCHEN
+## KITCHEN
 Stove cleaning
 Wipe countertops
 Wipe door handles & light switches
 Cleaning Dishes (Airbnb Cleaning Only)
 
-##BATHROOM
+## BATHROOM
 Clean toilets
 Clean mirrors
 Baththubs/Showers
@@ -34,7 +34,7 @@ What's included
 
 ![Image](Screen Shot 2020-08-08 at 12.21.44 PM.png)
 
-##BEDROOM, LIVING ROOM & COMMON AREAS 
+## BEDROOM, LIVING ROOM & COMMON AREAS 
 Sweep and mop floors
 Vacuum carpet and rugs
 Dusting
@@ -46,7 +46,7 @@ Wipe door handles & light switches
 Dust windows, sills, and ledges
 Making Beds (Airbnb Cleaning Only)
 
-##KITCHEN
+## KITCHEN
 Stove cleaning
 Wipe countertops
 Wipe door handles & light switches
@@ -54,7 +54,7 @@ Wipe Baseboards
 Extra attention to outside of kitchen appliances
 Cleaning Dishes (Airbnb Cleaning Only)
 
-##BATHROOM
+## BATHROOM
 Clean toilets
 Clean mirrors
 Bathtubs/Showers
@@ -65,7 +65,7 @@ What's included
 
 ![Image](Screen Shot 2020-08-08 at 12.21.52 PM.png)
 
-##BEDROOM, LIVING ROOM & COMMON AREAS
+## BEDROOM, LIVING ROOM & COMMON AREAS
 Sweep and mop floors
 Vacuum carpet and rugs
 Dusting
@@ -77,7 +77,7 @@ Wipe door handles & light switches
 Dust windows, sills, and ledges
 Making Beds (Airbnb Cleaning Only)
 
-##KITCHEN
+## KITCHEN
 Stove cleaning
 Wipe countertops
 Wipe door handles & light switches
@@ -88,7 +88,7 @@ Inside fridge
 Inside oven
 Cleaning Dishes (Airbnb Cleaning Only)
 
-##BATHROOM
+## BATHROOM
 Clean toilets
 Clean mirrors
 Baththubs/Showers
