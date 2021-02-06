@@ -9,41 +9,27 @@ What's included
 ![Image](Screen Shot 2020-08-08 at 12.21.52 PM.png)
 
 ## BEDROOM, LIVING ROOM & COMMON AREAS
-Sweep and mop floors
-
-Vacuum carpet and rugs
-
-Dusting
-
-Clean mirrors
-
-Take out the trash
-
-Stove cleaning
-
-Empty and clean trash cans
-
-Wipe door handles & light switches
-
-Dust windows, sills, and ledges
-
-Making Beds (Airbnb Cleaning Only)
+* Sweep and mop floors
+* Vacuum carpet and rugs
+* Dusting
+* Clean mirrors
+* Take out the trash
+* Stove cleaning
+* Empty and clean trash cans
+* Wipe door handles & light switches
+* Dust windows, sills, and ledges
+* Making Beds (Airbnb Cleaning Only)
 
 ## KITCHEN
-Stove cleaning
-
-Wipe countertops
-
-Wipe door handles & light switches
-
-Cleaning Dishes (Airbnb Cleaning Only)
+* Stove cleaning
+* Wipe countertops
+* Wipe door handles & light switches
+* Cleaning Dishes (Airbnb Cleaning Only)
 
 ## BATHROOM
-Clean toilets
-
-Clean mirrors
-
-Baththubs/Showers
+* Clean toilets
+* Clean mirrors
+* Baththubs/Showers
 
 # Deep Cleaning
 What's included
