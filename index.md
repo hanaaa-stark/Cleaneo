@@ -1,6 +1,6 @@
 # Simple Cleaning
 What's included 
-* BEDROOM, LIVING ROOM & COMMON AREAS
+* BEDROOM, LIVING ROOM & COMMON AREAS:
  * Sweep and mop floors 
  * Vacuum carpet and rugs 
  * Dusting 
