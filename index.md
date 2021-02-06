@@ -4,13 +4,10 @@
 
 ## Simple Cleaning
 
-What's included | ![Image](Screen Shot 2020-08-08 at 12.21.52 PM.png)
+What's included 
 
 ### BEDROOM, LIVING ROOM & COMMON AREAS
-* Sweep and mop floors
-* Vacuum carpet and rugs
-* Dusting
-* Clean mirrors
+* Sweep and mop floors * Vacuum carpet and rugs * Dusting * Clean mirrors| ![Image](Screen Shot 2020-08-08 at 12.21.52 PM.png)
 * Take out the trash
 * Stove cleaning
 * Empty and clean trash cans
