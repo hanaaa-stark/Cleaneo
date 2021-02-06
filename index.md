@@ -25,7 +25,6 @@ What's included
 
 ## Deep Cleaning
 What's included
-
 * BEDROOM, LIVING ROOM & COMMON AREAS 
   * Sweep and mop floors
   * Vacuum carpet and rugs
