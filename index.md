@@ -1,6 +1,7 @@
-# Simple Cleaning
+# Cleaning
+## Simple Cleaning
 What's included 
-* BEDROOM, LIVING ROOM & COMMON AREAS:
+- BEDROOM, LIVING ROOM & COMMON AREAS
  * Sweep and mop floors 
  * Vacuum carpet and rugs 
  * Dusting 
@@ -22,7 +23,7 @@ What's included
  * Clean mirrors
  * Baththubs/Showers
 
-# Deep Cleaning
+## Deep Cleaning
 What's included
 
 * BEDROOM, LIVING ROOM & COMMON AREAS 
@@ -51,7 +52,7 @@ What's included
  * Bathtubs/Showers
  * Extra attention to shower and bathroom
 
-# Move in/out Cleaning
+## Move in/out Cleaning
 What's included
 * BEDROOM, LIVING ROOM & COMMON AREAS
  * Sweep and mop floors
